@@ -16,5 +16,5 @@ To train your own fall detection system, follow these instructions:
 ## Samples
 ![Sample Output](samples/Ankin.gif)
 ![Sample Image Output](samples/frame6_1.jpg)
- The images above used for testing were retrieved from [here](http://le2i.cnrs.fr/Fall-detection-Dataset?lang=en)
- 
+
+The images above used for testing were retrieved from [here](http://le2i.cnrs.fr/Fall-detection-Dataset?lang=en)
