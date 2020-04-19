@@ -1,1 +1,1 @@
-Place the mask_rcnn_coco.h5 (weights) file in this folder. The file should be existent if you choose to use 
+Place the mask_rcnn_coco.h5 (weights) file in this folder. The file should be existent if you choose to use in training the model.
